@@ -1,0 +1,18 @@
+# Netflix Data Analysis Dashboard (Power BI)
+
+## 📌 Project Overview
+An interactive Power BI dashboard designed to analyze Netflix's content library. The project explores global trends, content distribution by country, ratings, and genres using a professional Netflix-themed UI.
+
+## 🛠️ Tech Stack & Skills
+* **Tool:** Power BI Desktop
+* **Data Cleaning:** Power Query (M Language) - handled unpivoting of countries and genres.
+* **Data Modeling:** Star Schema (Fact and Dimension tables).
+* **Calculations:** DAX (Measures for Total Movies, TV Shows, etc.).
+* **Visualization:** Customized Netflix Dark Theme.
+
+## 📊 Key Features
+* **Global Insights:** Top countries producing content (USA, India, etc.).
+* **Category Breakdown:** Analysis of the most popular genres.
+* **Audience Segmentation:** Visualizing content ratings (TV-MA, TV-14, etc.).
+* **Interactive Slicers:** Dynamic filtering by Country, Type, and Genre.
+
